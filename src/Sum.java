@@ -2,6 +2,8 @@ public class Sum {
 
     public static int arrayPlusArray(int[] arr1, int[] arr2) {
 
+        
+
         int sumArr1 = 0;
         int sumArr2 = 0;
 
